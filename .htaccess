@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+AddCharset UTF-8 *
+<IfModule mod_charset.c>
+CharsetSourceEnc UTF-8
+CharsetDefault UTF-8
+</IfModule>

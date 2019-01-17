@@ -1,0 +1,2 @@
+<img class="hero" src="Images/Герой советского союза.png" hspace="15">
+<p><b><?php echo $name;?></b> / <b><?php echo $email;?></b> / <?php echo "<p class=center_guestbook>$comment</p>"?><br></p><br><hr>
